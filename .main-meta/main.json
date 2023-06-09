@@ -1,0 +1,43 @@
+{
+   "metaDataVersion":"1.0.0",
+   "category":"com.microchip.other-example",
+   "content":{
+		"metaDataVersion":"1.0.0",
+		"name":"MTCH1030-data-visualizer-config-files",
+		"version":"1.0.0",
+		"displayName":"MTCH1030 Data Visualizer config files",
+		"projectName":"touch-solution-data-visualizer-config-files",
+		"shortDescription":"Data Visualizer config files for Touch Solution Platform",
+
+		"devices":[{
+			"metaDataVersion":"1.0.0",
+			"category":"com.microchip.portal.contentRef",
+			"content":{
+				"metaDataVersion":"1.0.0",
+				"category":"com.microchip.device",
+				"name":"MTCH1030 ",
+				"versionRange":"*"
+			}
+        }],
+
+
+	"keywords":[
+		 "Touch",
+		 "Gesture",
+		 "Medical",
+		 "Home Appliance",
+		 "Capacitive Touch"
+	],
+	"additionalData": {
+		"longDescription": {
+			"metaDataVersion": "1.0.0",
+			"category": "com.microchip.portal.fileRef",
+			"content": {
+				"metaDataVersion": "1.0.0",
+				"fileName": "../readme.md",
+				"mimeType": "text/markdown"
+			}
+		}
+	}	  
+   }
+}
