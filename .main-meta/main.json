@@ -22,11 +22,12 @@
 
 
 	"keywords":[
-		 "Touch",
+		"Touch",
 		 "Gesture",
-		 "Medical",
-		 "Home Appliance",
-		 "Capacitive Touch"
+		 "Capacitive Touch",
+		 "1D Touch",
+		 "2D Touch",
+         "Self Capacitance"
 	],
 	"additionalData": {
 		"longDescription": {
@@ -34,7 +35,7 @@
 			"category": "com.microchip.portal.fileRef",
 			"content": {
 				"metaDataVersion": "1.0.0",
-				"fileName": "../readme.md",
+				"fileName": "./README.md",
 				"mimeType": "text/markdown"
 			}
 		}
