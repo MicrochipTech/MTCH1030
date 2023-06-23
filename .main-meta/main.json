@@ -22,12 +22,14 @@
  
  
 	 "keywords":[
-		 "Touch",
-		  "Gesture",
-		  "Capacitive Touch",
-		  "1D Touch",
-		  "2D Touch",
-		  "Self Capacitance"
+		"Touch",
+		"Gesture",
+		"Capacitive Touch",
+		"1D Touch",
+		"2D Touch",
+		"Self Capacitance",
+		"User Interface",
+		"Home Appliance"
 	 ],
 	 "additionalData": {
 		 "longDescription": {

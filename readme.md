@@ -1,4 +1,4 @@
-![Microchip logo](https://raw.githubusercontent.com/wiki/Microchip-MPLAB-Harmony/Microchip-MPLAB-Harmony.github.io/images/microchip_logo.png)
+![https://www.microchip.com/](assets/microchip.png)
 
 # Microchip MPLAB® Configuration Files - MTCH1030
 
