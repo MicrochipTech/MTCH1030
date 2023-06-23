@@ -1,4 +1,4 @@
-![https://www.microchip.com/](assets/microchip.png)
+<a href="https://www.microchip.com" rel="nofollow"><img src="assets/microchip.png" alt="MCHP" width="300"/></a>
 
 # Microchip MPLAB® Configuration Files - MTCH1030
 
