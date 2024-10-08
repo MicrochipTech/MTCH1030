@@ -31,14 +31,27 @@ CurrFreq, 2 (Column:0;Row:0)
 FWVersion, 2 (Column:1;Row:0)
 
 
-Delta0,3 (visible:1)
-Delta1,3 (visible:1)
-Delta2,3 (visible:1)
-Threshold0,3 (visible:1)
-Threshold1,3 (visible:1)
-Threshold2,3 (visible:1)
-NoiseEnv0,3 (visible:0)
-NoiseEnv1,3 (visible:0)
-NoiseEnv2,3 (visible:0)
+Delta0,30 (visible:1)
+Delta1,30 (visible:1)
+Delta2,30 (visible:1)
+Threshold0,30 (visible:1)
+Threshold1,30 (visible:1)
+Threshold2,30 (visible:1)
+NoiseEnv0,30 (visible:0)
+NoiseEnv1,30 (visible:0)
+NoiseEnv2,30 (visible:0)
+
+Delta0,31 (visible:1)
+Delta1,31 (visible:1)
+Delta2,31 (visible:1)
+Threshold0,31 (visible:1)
+Threshold1,31 (visible:1)
+Threshold2,31 (visible:1)
+NoiseEnv0,31 (visible:0)
+NoiseEnv1,31 (visible:0)
+NoiseEnv2,31 (visible:0)
 
 
+Detect0, 4
+Detect1, 5
+Detect2, 6
